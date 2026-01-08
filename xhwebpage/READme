@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My HTML5 UP Website</title>
+</head>
+<body>
+
+  <h1>My HTML5 UP Website</h1>
+
+  <p>
+    This is a static website created using an <strong>HTML5 UP template</strong>
+    and deployed using <strong>GitHub Pages</strong>.
+  </p>
+
+  <h2>Live Website</h2>
+  <p>
+    <a href="https://alexanderligahon-stack.github.io/MyWeb/xhwebpage/">
+      https://alexanderligahon-stack.github.io/MyWeb/xhwebpage/
+    </a>
+  </p>
+
+  <h2>Project Structure</h2>
+  <pre>
+index.html
+assets/
+  css/
+  js/
+images
